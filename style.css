@@ -10,7 +10,7 @@
   font-size: 62.5%;
   --fs-body: 1.4rem;
   --fs-heading: clamp(4rem, 1rem + 5vw, 5.6rem);
-  --fs-heading-sm: clamp(3rem, 0.5rem + 3vw, 4rem);
+  --fs-heading-sm: clamp(3rem, 0.5rem + 2vw, 4rem);
 }
 
 * {
@@ -87,7 +87,7 @@ main {
 
 .card img:hover {
   transform: scale(1.1);
-  filter: brightness(1) saturate(1);
+  filter: brightness(0.8) saturate(1);
 }
 
 .card h2 {

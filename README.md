@@ -26,7 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Descrição
 
 Projeto independente que mostra uma página de uma galeria de arte, com breves demonstrações de obras, dicas e informações providas pela mesma. <br>
-O intuito desse projeto foi desenvolver uma página com o uso do **Display grid** no CSS; **responsividade** de elementos; tags **semânticas** de HTML; **animações** em CSS, e **manipulação de imagens** com CSS.
+O intuito desse projeto foi desenvolver uma página com o uso do **Display grid** no CSS; **responsividade** de elementos; tags **semânticas** de HTML; **animações** em CSS, e **manipulação de imagens** com CSS.<br>
 P.S.: Esse projeto foi baseado em um desafio do programa *Explorer* da @rocketseat.
 
 ## Confira o projeto:

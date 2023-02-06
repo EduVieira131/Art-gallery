@@ -35,13 +35,13 @@ P.S.: Esse projeto foi baseado em um desafio do programa *Explorer* da @rocketse
 
 
 <p align="center">
-  <img alt="projeto Link list" src=".github/preview.png" width="70%">
+  <img alt="projeto Link list" src=".github/preview.PNG" width="70%">
 </p>
 
 ---
 
 <p align="center">
-  <img alt="projeto Link list" src=".github/preview2.png" width="70%">
+  <img alt="projeto Link list" src=".github/preview2.PNG" width="70%">
 </p>
 <br>
 

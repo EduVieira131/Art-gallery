@@ -47,7 +47,7 @@ P.S.: Esse projeto foi baseado em um desafio do programa *Explorer* da @rocketse
 
 ## Acesse o projeto!
 
-[ArtGallery.com](https://eduvieira131.github.io/Feedback-mentor/)
+[ArtGallery.com](https://eduvieira131.github.io/Art-gallery/)
 
 ---
 <br>
